@@ -8,7 +8,7 @@
         <meta name="author" content="" />
         <title>Create your Avatar Here - Avatar</title>
         <!-- Favicon-->
-        <link rel="shortcut icon" type="image/png" href="favicon.png"/>
+        <link rel="shortcut icon" type="image/png" href="assets/img/Kala.png"/>
         <!-- Font Awesome icons (free version)-->
         <script src="https://use.fontawesome.com/releases/v6.1.0/js/all.js" crossorigin="anonymous"></script>
         <!-- Google fonts-->
@@ -38,7 +38,7 @@
         <header class="masthead bg-primary text-white text-center">
             <div class="container d-flex align-items-center flex-column">
                 <!-- Masthead Avatar Image-->
-                <img class="masthead-avatar mb-5" src="assets/img/avataaars.svg" alt="..." />
+                <img class="masthead-avatar mb-5" src="assets/img/NM.png" alt="..." />
                 <!-- Masthead Heading-->
                 <h1 class="masthead-heading text-uppercase mb-0">Kala Kini Nanti Experience</h1>
                 <!-- Icon Divider-->
@@ -52,7 +52,7 @@
             </div>
             <!-- About Section Button-->
             <div class="text-center mt-4">
-                    <a class="btn btn-xl btn-outline-light" href="http://localhost/avatar-main/getavatar.php">
+                    <a class="btn btn-xl btn-outline-light" href="http://localhost/kalakininanti/kalabaru.php">
                         Create Avatar
                     </a>
                 </div>
